@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Richie",
+    "last_name": "von Grollmann",
+    "email": "rvongrollmann0@dmoz.org",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Danya",
+    "last_name": "Bittlestone",
+    "email": "dbittlestone1@nhs.uk",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Shelby",
+    "last_name": "McCrostie",
+    "email": "smccrostie2@seesaa.net",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Natalee",
+    "last_name": "Lancetter",
+    "email": "nlancetter3@domainmarket.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Freeman",
+    "last_name": "Stronge",
+    "email": "fstronge4@goo.gl",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Elsy",
+    "last_name": "Buckley",
+    "email": "ebuckley5@craigslist.org",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Trefor",
+    "last_name": "Toon",
+    "email": "ttoon6@chronoengine.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Marty",
+    "last_name": "Seid",
+    "email": "mseid7@istockphoto.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Winny",
+    "last_name": "Wilkisson",
+    "email": "wwilkisson8@cornell.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Rafaela",
+    "last_name": "Scheffel",
+    "email": "rscheffel9@hc360.com",
+    "gender": "Female"
+  }
+]
